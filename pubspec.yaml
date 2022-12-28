@@ -1,0 +1,35 @@
+name: call_blocker
+description: An app that will block undesired calls.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_callkit_incoming: ^1.0.3+1
+  flutter_callkit_voximplant: ^2.1.0
+  firebase_core: ^2.4.0
+  firebase_messaging: ^14.2.0
+  uuid: ^3.0.7
+  http: ^0.13.5
+  
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  

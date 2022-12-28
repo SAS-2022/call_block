@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501685277521",
+    "project_id": "call-block-fa3fa",
+    "storage_bucket": "call-block-fa3fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501685277521:android:29dd488422ac24e8f67970",
+        "android_client_info": {
+          "package_name": "com.thegadgetstore.callblock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501685277521-nip0pome286tt2kqpdkujvaag15h0cp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8oJUKhNG4tCPxZN1G4lLLXrstBfp5gjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501685277521-nip0pome286tt2kqpdkujvaag15h0cp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
